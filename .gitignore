@@ -1,0 +1,25 @@
+# IDE
+.idea
+.vscode
+
+# mac-related
+.DS_Store
+__MACOSX
+
+# notebooks
+.ipynb_checkpoints
+
+# python
+__pycache__
+
+# датасеты / данные для домашек (не коммитим)
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+**/data/
+**/dataset/
+**/datasets/
+
