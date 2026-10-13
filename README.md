@@ -8,8 +8,10 @@
 |---|---|---|
 | [hw1](hw1/homework_01.ipynb) | Полносвязные сети, регрессия | Ridge-бейзлайн +  backward + сеть |
 | [hw2](hw2/hw_2.ipynb)  | CNN, классификация изображений | сеть + файнтюн ResNet18, ResNet50, аугментация |
+| [hw3](hw3/hw3_iad.ipynb) | Детекция объектов |  YOLO-детектор + YOLOv8n |
+| [hw4](hw4/hw4_texts.ipynb) | NLP: классификация и сентимент | Классификатор тегов новостей + sentiment по 2.6 млн комментариев ВК |
 
 
 ## Окружение
 
-Python 3.10+, PyTorch, scikit-learn, pandas, numpy, matplotlib, albumentations, torchvision, pytorch_lightning.
+Python 3.10+, PyTorch, scikit-learn, pandas, numpy, matplotlib, albumentations, torchvision, ultralytics, pytorch_lightning, transformers, nltk, gdown.
